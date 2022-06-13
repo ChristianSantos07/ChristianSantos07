@@ -1,9 +1,10 @@
 
+<div align="center">
 
 ### Olá, Meu nome é Christian 👋
 ### Seja bem vindo ao meu perfil!
 
-
+    
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianSantos07&show_icons=true&theme=radical)
@@ -30,3 +31,7 @@
 ### Contato
 Email: csbraga1995@gmail.com <br>
 Discord: christian#0816
+
+
+</div>
+
