@@ -1,15 +1,15 @@
 
 <div align="center">
 
-### Olá, Meu nome é Christian 👋
-### Seja bem vindo ao meu perfil!
+### Hello, My name is Christian 👋
+### Welcome to my profile!
 
     
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianSantos07&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSantos07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### Tecnologias que uso no meu dia
+### Technologies I use in my day
 
 
 <div style="display: inline_block"><br/>
@@ -27,7 +27,7 @@
 </div>
 <br>
 
-### Contato
+### Contact
 Email: csbraga1995@gmail.com <br>
 Discord: christian#0816
 
